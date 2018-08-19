@@ -1,0 +1,15 @@
+a {
+ text-decoration: none;
+ color:   #E8583E; 
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p { font-family: verdana; 
+}
+
+header{
+    border: 5px solid green;
+    padding: 10px;
+    margin: 10px;
+    font-family: calibri;
+    text-align: center;
+}
